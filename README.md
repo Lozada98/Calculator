@@ -28,4 +28,4 @@ Contribuições são bem-vindas! Se deseja melhorar esta calculadora adicionando
 
 ## Autor
 Este projeto foi desenvolvido por o teme 5 do curso de Python, turma 40, da toti:
-Henry Luna, Miguel Lozada, Gabriel Galue Morales
+Henry Luna, Miguel Lozada
