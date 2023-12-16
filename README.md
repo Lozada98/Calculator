@@ -1,31 +1,31 @@
 <img src="https://github.com/hluna23/CalculadoraPY/assets/114502390/0f8cde68-ead3-4dc6-b94e-908cfc94997a"/>
 
-Este projeto consiste em uma calculadora desenvolvida em Python, capaz de realizar operações aritméticas básicas e avançadas. A interface do usuário foi implementada utilizando a biblioteca Tkinter para proporcionar uma experiência interativa e amigável. Além disso, a calculadora foi projetada para ser responsiva, adaptando-se de forma eficiente a diferentes tamanhos de tela.
+This project consists of a calculator developed in Python, capable of performing basic and advanced arithmetic operations. The user interface was implemented using the Tkinter library to provide an interactive and friendly experience. Also, the calculator was designed to be responsive, adapting efficiently to different fabric sizes.
 
-## Funcionalidades
-Operações básicas: A calculadora pode realizar operações de adição, subtração, multiplicação e divisão entre números reais.
-Operações avançadas:  raízes quadradas
-Interface de usuário responsiva: A interface gráfica fornecida pelo Tkinter foi projetada para se adaptar a diferentes tamanhos de tela, oferecendo uma experiência ideal tanto em dispositivos de mesa quanto em dispositivos móveis
+## Features
+Basic operations: The calculator can perform addition, subtraction, multiplication and division operations between real numbers.
+Advanced operations: square roots
+Responsive user interface: The graphical interface provided by Tkinter was designed to adapt to different fabric sizes, offering an ideal experience both on tabletop devices and on mobile devices.
 
-## Tecnologias Utilizadas
-Python: O projeto foi desenvolvido em Python, uma linguagem de programação de alto nível e versátil.
-Tkinter: Foi utilizada a biblioteca Tkinter para a criação da interface gráfica de usuário.
-Math: A biblioteca Math do Python foi empregada para realizar operações matemáticas avançadas.
+## Used technology
+Python: The project was developed in Python, a high-level and versatile programming language.
+Tkinter: The Tkinter library was used to create the graphical user interface.
+Math: The Python Math library was used to perform advanced mathematical operations.
 
-## Executando o Projeto
-Para executar a calculadora, siga estes passos:
-Certifique-se de ter o Python instalado em seu sistema. Você pode baixá-lo em python.org.
-Clone este repositório ou baixe os arquivos em seu computador.
-Abra seu terminal ou linha de comando e navegue até o diretório onde os arquivos do projeto estão localizados.
-Execute o script principal calculator.py utilizando o seguinte comando:
+## Executing or Project
+To run the calculator, follow these steps:
+Make sure you have Python installed on your system. You can download it at python.org.
+Clone this repository or download the files to your computer.
+Open your terminal or command line and navigate to the directory where the project files are located.
+Execute the main script calculator.py using the following command:
 
 ### python calculator.py
 
-A interface da calculadora será aberta e você poderá começar a utilizar todas as suas funcionalidades, adaptadas para diferentes tamanhos de tela.
+The calculator interface will be open and you will be able to start using all its functionalities, adapted for different fabric sizes.
 
-## Contribuições
-Contribuições são bem-vindas! Se deseja melhorar esta calculadora adicionando novas funções, otimizando o código ou corrigindo erros, sinta-se à vontade para abrir um pull request.
+## Contributions
+Contribuições são bem-vindas! If you want to improve this calculator by adding new functions, optimizing the code or correcting errors, click on it to open a pull request.
 
-## Autor
-Este projeto foi desenvolvido por o teme 5 do curso de Python, turma 40, da toti:
+## Author
+This project was developed by the 5th Python course, 40 days, all:
 Henry Luna, Miguel Lozada
