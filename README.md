@@ -27,5 +27,5 @@ The calculator interface will be open and you will be able to start using all it
 Contribuições são bem-vindas! If you want to improve this calculator by adding new functions, optimizing the code or correcting errors, click on it to open a pull request.
 
 ## Author
-This project was developed by the 5th Python course, 40 days, all:
+This project was developed by the 5th Python, course 40 , all:
 Henry Luna, Miguel Lozada
